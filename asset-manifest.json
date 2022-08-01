@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-grocery-list-tracker/static/css/main.cdcc939d.chunk.css",
+    "main.js": "/react-grocery-list-tracker/static/js/main.f8e1ab78.chunk.js",
+    "main.js.map": "/react-grocery-list-tracker/static/js/main.f8e1ab78.chunk.js.map",
+    "runtime-main.js": "/react-grocery-list-tracker/static/js/runtime-main.27dfdc68.js",
+    "runtime-main.js.map": "/react-grocery-list-tracker/static/js/runtime-main.27dfdc68.js.map",
+    "static/js/2.4896f6c0.chunk.js": "/react-grocery-list-tracker/static/js/2.4896f6c0.chunk.js",
+    "static/js/2.4896f6c0.chunk.js.map": "/react-grocery-list-tracker/static/js/2.4896f6c0.chunk.js.map",
+    "index.html": "/react-grocery-list-tracker/index.html",
+    "precache-manifest.802e8bab74a434f1b1d6c9d2853ed402.js": "/react-grocery-list-tracker/precache-manifest.802e8bab74a434f1b1d6c9d2853ed402.js",
+    "service-worker.js": "/react-grocery-list-tracker/service-worker.js",
+    "static/css/main.cdcc939d.chunk.css.map": "/react-grocery-list-tracker/static/css/main.cdcc939d.chunk.css.map",
+    "static/js/2.4896f6c0.chunk.js.LICENSE.txt": "/react-grocery-list-tracker/static/js/2.4896f6c0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27dfdc68.js",
+    "static/js/2.4896f6c0.chunk.js",
+    "static/css/main.cdcc939d.chunk.css",
+    "static/js/main.f8e1ab78.chunk.js"
+  ]
+}
